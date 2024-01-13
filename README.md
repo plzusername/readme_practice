@@ -55,10 +55,11 @@ You are probably thinking:
 <details>
 
 <summary>The courses you can Take in DropDown</summary>
- - ExpensiveCodeCamp
- - The Thor Project
- - CodeSchool
- - SkillComunism
+
+ -  ExpensiveCodeCamp
+ -  The Thor Project
+ -  CodeSchool
+ -  SkillComunism
 
 ```bash
 npm install lodash
