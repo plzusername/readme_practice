@@ -28,15 +28,15 @@ Baffled are you, head over to [The odin project](https://www.theodinproject.com/
 Some great lessons on th curriculum:
 
 - FlexBox
-  1. Introduction to Flexbox
-  2. Alignment with Flexbox
+  - Introduction to Flexbox
+  - Alignment with Flexbox
 - Organizing your Javascript Code
-  1. Classes
-  1. ES6 Modules
-  1. Principles of OOP 
+  - Classes
+  - ES6 Modules
+  - Principles of OOP 
 - Grid
-  1. Alignment with grid
-  1. Advanced grid Topics
+  - Alignment with grid
+  - Advanced grid Topics
 
 You are probably thinking:
 >'Well ok this is complete :poop:, i cant understand a thing!!!'
