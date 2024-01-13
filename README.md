@@ -32,11 +32,11 @@ Some great lessons on th curriculum:
   2. Alignment with Flexbox
 - Organizing your Javascript Code
   1. Classes
-  2. ES6 Modules
-  3. Principles of OOP 
+  1. ES6 Modules
+  1. Principles of OOP 
 - Grid
   1. Alignment with grid
-  2. Advanced grid Topics
+  1. Advanced grid Topics
 
 You are probably thinking:
 >'Well ok this is complete :poop:, i cant understand a thing!!!'
