@@ -2,7 +2,7 @@
 
 ## Text styles:
 
-The ~~words~~ *text* in ***this example*** has a <sub>SubText</sub> peice and a <supe> SupText</sup> peice
+The ~~words~~ *text* in ***this example*** has a <sub>SubText</sub> peice and a <sup> SupText</sup> peice
 
 Indeed it has been quoted by **Nelson Mandela** that :
 >'A man who uses github markup language to make his repo look nice can get thrice the job oppurtunities than a person who does not'
@@ -40,5 +40,6 @@ Some great lessons on th curriculum:
 
 You are probably thinking:
 >'Well ok this is complete :poop:, i cant understand a thing!!!'
+
 [!NOTE]
 How about you go and start Learning the Curriculum ***from the Beginning*** you Genie!
