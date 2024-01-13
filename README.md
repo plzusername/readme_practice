@@ -44,7 +44,28 @@ You are probably thinking:
 >[!NOTE]
 >How about you go and start Learning the Curriculum ***from the Beginning*** you Genie!
 
+------
+
 |Beginner courses | Advanced courses|
 | :--- | ---: |
 | ExpensiveCodeCamp | The Thor Project |
 | CodeSchool | SkillComunism|
+
+
+<details>
+
+<summary>The courses you can Take in DropDown</summary>
+
+ExpensiveCodeCamp
+
+The Thor Project
+
+CodeSchool
+
+SkillComunism
+
+```bash
+npm install lodash
+```
+is included in the odin project
+</details>
