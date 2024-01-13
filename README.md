@@ -43,3 +43,8 @@ You are probably thinking:
 
 >[!NOTE]
 >How about you go and start Learning the Curriculum ***from the Beginning*** you Genie!
+
+|Beginner courses | Advanced courses|
+| :--- | ---: |
+| ExpensiveCodeCamp | The Thor Project |
+| CodeSchool | SkillComunism|
