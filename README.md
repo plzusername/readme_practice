@@ -42,4 +42,5 @@ You are probably thinking:
 >'Well ok this is complete :poop:, i cant understand a thing!!!'
 
 [!NOTE]
+
 How about you go and start Learning the Curriculum ***from the Beginning*** you Genie!
